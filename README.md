@@ -1,2 +1,2 @@
 # shell-scripting-programs
-assignments problems
+assignment problems
